@@ -1,0 +1,9 @@
+Hello there!
+This is a sample text file created through the vi text editor in the CLI.
+
+THis file has been saved!!
+
+->esc
+->:wq
+->cc demo.txt
+
